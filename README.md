@@ -14,7 +14,5 @@ The framework for this project was to analyze bikeshare data from CitiBike in Ne
 
 # Results
 While the demographics of Des Moines may be different from the make up of the citizenry of NYC, a cursory look at the makeup of CitiBike riders may shine light on who bikeshare might appeal to, regardless of locale.
-
-
 ![image](https://user-images.githubusercontent.com/95143562/162261850-51d3b749-d219-402c-ab44-11ebafb761b9.png)
-
+In the above image we can see that more than 3/4 of the users are Subscribers, who make regular use of the bikes and are a predictable source of income for the program. Bikeshare program users are also predominantly male, at approximately 5/8 to only about 1/4 female. The remaining 1/8 gender is unknown or undeclared.
