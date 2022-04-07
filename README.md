@@ -37,7 +37,7 @@ While the demographics of Des Moines may be different from the make up of the ci
 ![image](https://user-images.githubusercontent.com/95143562/162263597-6e16d490-1f45-4578-b465-fbc339012bcb.png)
 
 
-Lastly, this below image of a heatmap reinforces how much of the userbase is dominated by male-identifying, subscribing users. Why this is the case is unclear and warrants additional study.
+* Lastly, this below image of a heatmap reinforces how much of the userbase is dominated by male-identifying, subscribing users. Why this is the case is unclear and warrants additional study.
 
 There are one or two additional charts available in the Tableau analysis, but they tell pretty much the same story that has already been displayed above.
 
