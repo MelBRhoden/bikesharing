@@ -2,8 +2,7 @@
 An analysis of NYC CitiBike bikesharing data from August, 2019, with Tableau
 
 # Overview
-This Tableau story can be seen, in its entirety, 
-https://public.tableau.com/app/profile/melanie.rhoden/viz/NYCCitiBikeanalysis/NYCCitiBikeanalysis?publish=yes
+This Tableau story can be seen, in its entirety, [LINK HERE](https://public.tableau.com/app/profile/melanie.rhoden/viz/NYCCitiBikeanalysis/NYCCitiBikeanalysis?publish=yes)
 
 
 
